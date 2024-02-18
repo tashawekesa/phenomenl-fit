@@ -1,2 +1,2 @@
 Phenomenal fitness application 
-Developed by Tasha
+Developed by Tasha & Isaac
